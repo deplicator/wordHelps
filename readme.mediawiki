@@ -1,0 +1,17 @@
+==to do==
+===Font Size===
+lines: 17 - 21
+
+Font size does not work as intended. Resizing of words seems to be random, words
+of the same count are not always the same size like they should be.
+
+===unCaught TypeError===
+lines: 33 - 34
+
+These two lines give an error, although they work as intended.
+Uncaught TypeError: Cannot read property '0' of undefined
+
+===Options===
+Options don't actually do anything yet.
+
+[http://en.wikipedia.org/wiki/Most_common_words_in_English Common words]

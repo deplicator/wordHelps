@@ -1,0 +1,81 @@
+@import url(http://reset5.googlecode.com/hg/reset.min.css);
+body {
+    padding: 25px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+#inputarea {
+    width: 600px;
+    text-align: right;
+    margin: 0 auto 35px;
+}
+
+#inputarea textarea {
+    width: 100%;
+}
+
+#wordmap {
+	width: 375px;
+	float: left;
+}
+
+#info {
+	float: right;
+	border: 1px solid;
+	width: 200px;
+	background: #414141;
+	color: whitesmoke;
+	border-radius: 6px;
+}
+
+#stats {
+    margin: 4px;
+}
+
+#commonWords {
+    margin: 4px;
+}
+
+#toggleOptions {
+    width: 100%;
+    text-align: center;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding: 3px 0 5px 0;
+    background-image: linear-gradient(bottom, #737273 0%, #414141 58%);
+    background-image: -o-linear-gradient(bottom, #737273 0%, #414141 58%);
+    background-image: -moz-linear-gradient(bottom, #737273 0%, #414141 58%);
+    background-image: -webkit-linear-gradient(bottom, #737273 0%, #414141 58%);
+    background-image: -ms-linear-gradient(bottom, #737273 0%, #414141 58%);
+    
+    background-image: -webkit-gradient(
+    	linear,
+    	left bottom,
+    	left top,
+    	color-stop(0, #737273),
+    	color-stop(0.58, #414141)
+    );
+}
+
+#options {
+    margin: 4px;
+}
+
+#options span {
+    display: block;
+}
+
+#options span + span {
+    padding: 0 0 0 10px;
+}
+
+.jumble {
+    float: left;
+    padding: 3px;
+    line-height: 10px;
+}
+
+#resultTable th {
+
+}
