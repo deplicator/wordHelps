@@ -1,3 +1,7 @@
+__NOTOC__
+==About==
+[http://geekwagon.net/projects/wordHelps/ live example]
+
 ==to do==
 ===Font Size===
 lines: 17 - 21
